@@ -1,7 +1,7 @@
 {
-  "isResidencePermitPresent": true,
-  "residencePermitId": "ABASCASD",
-  "serviceType": "Extend a residence title",
+  "isResidencePermitPresent": No,
+  "residencePermitId": "",
+  "serviceType": "Apply for a residence title",
   "visaPurposeValue": "Educational purposes",
   "visaLabelValue": "Residence permit for the purpose of studying (sect. 16b)"
 }
